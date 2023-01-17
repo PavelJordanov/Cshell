@@ -1,0 +1,15 @@
+theme blue
+theme red
+theme blue GREEN
+print hello
+ls
+ls -la
+pwd
+whoami
+$a=69
+print a
+print $a
+log
+theme Red
+log
+exit
